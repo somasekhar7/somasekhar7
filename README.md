@@ -163,7 +163,7 @@ If you're looking for someone who combines technical versatility, innovation, an
 - Demonstrated adaptability and a proactive approach to learning new cloud and DevOps tools essential for scalable application development.
 
 ### 🌐 Web Developer Intern — *Solar Secure Solutions*  
-*Remote | May 2022 – Nov 2022*
+*Remote | Jan 2021 – April 2021*
 
 - Supported the development of an e-Pharmacy platform by working on both frontend and backend tasks using React.js and Flask.
 - Learned to use Pandas for handling and organizing data, helping to automate some routine data processing.
